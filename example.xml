@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<KeePassFile>
+    <Meta>
+        <Generator>one2kee</Generator>
+        <DatabaseName>Import</DatabaseName>
+        <MemoryProtection>
+            <ProtectTitle>False</ProtectTitle>
+            <ProtectUserName>False</ProtectUserName>
+            <ProtectPassword>True</ProtectPassword>
+            <ProtectURL>False</ProtectURL>
+            <ProtectNotes>False</ProtectNotes>
+        </MemoryProtection>
+    </Meta>
+    <Root>
+    </Root>
+</KeePassFile>
